@@ -1,1 +1,41 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el título del menú */
+h1 {
+    margin: 0;
+}
+
+/* Estilos para la sección del menú */
+.menu {
+    width: 80%;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para los títulos de secciones */
+h2 {
+    color: #333;
+}
+
+/* Estilos para la lista de elementos del menú */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Estilos para los elementos de la lista */
+li {
+    margin-bottom: 10px;
+}
 
